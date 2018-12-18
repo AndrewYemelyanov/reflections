@@ -1,0 +1,6 @@
+What do you think are the pros and cons of manually choosing when to create a comm
+
+it is better to commit manually because
+  - you know the feature is complete, not too big or small
+  - to have each feature have a separate commit
+  - to comment each commit so you know what is what 

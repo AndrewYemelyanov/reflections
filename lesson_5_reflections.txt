@@ -1,0 +1,3 @@
+How might using version control make you more confident to make changes that could break something?
+
+I will at all times have all my past versions so, in case a bug is ontroduced, I will be able to quickly locate it
