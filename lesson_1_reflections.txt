@@ -1,0 +1,2 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+viewing of a diff file between was possible with function diff old_file.txt and new_file.txt
